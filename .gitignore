@@ -1,0 +1,46 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE / Editors
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Project-specific
+# =========================
+# Generated plots
+volatility_plots_*/
+
+# Logs / temp
+*.log
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+*.env
