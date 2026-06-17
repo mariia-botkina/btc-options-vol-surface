@@ -1,4 +1,4 @@
-# deribit-exploring
+# btc-options-vol-surface
 
 A Python tool for fetching live BTC options data from the [Deribit](https://deribit.com) exchange API and building **implied volatility curves** across all active expiry series.
 
