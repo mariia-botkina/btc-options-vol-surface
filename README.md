@@ -67,3 +67,7 @@ For each option pair (call + put at the same strike), implied volatility is esti
 - Data is fetched at runtime — no historical data is stored in this repository.
 - The curve parametrization is inspired by SVI (Stochastic Volatility Inspired) smile models used in quantitative finance.
 - Built as an exploration of options market microstructure and volatility surface modeling.
+
+## License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
